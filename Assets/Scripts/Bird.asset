@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb4b93ee4587b847b8b5fc646f929c3, type: 3}
+  m_Name: Bird
+  m_EditorClassIdentifier: 
+  Score: 0
+  MaxScore: 0
+  ClickCounter: 0
+  IsStarted: 0
+  IsRestart: 0
+  Gold: {fileID: 204196830, guid: 0a29e65e989111a47bc5ef4df851efc6, type: 3}
+  Silver: {fileID: 1800076785, guid: 0a29e65e989111a47bc5ef4df851efc6, type: 3}
+  bronze: {fileID: 237320715, guid: 0a29e65e989111a47bc5ef4df851efc6, type: 3}
