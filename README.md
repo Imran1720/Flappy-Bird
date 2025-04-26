@@ -3,7 +3,7 @@ A simple yet addictive Flappy Bird clone built with Unity — tap, flap, and dod
 
 ### Gameplay
 
-![Image](https://github.com/Imran1720/Flappy-Bird/blob/f417dcaed85c8ad7cc7d9244ee4c33da2484a79d/Attachments/Gameplay.gif)
+![Image](https://github.com/Imran1720/Flappy-Bird/blob/e6a0658f177b48fdf7d416998abb1a69f865b7c7/Attachments/Gameplay.gif)
 
 ### Screenshots:
 
